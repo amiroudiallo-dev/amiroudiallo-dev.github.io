@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "amiroudiallo-dev"
 title_separator          : "-"
 name                     : &name "DIALLO Amirou Yannick Wendpuiré"
-description              : &description "personal description"
+description              : &description "I am a software engineer who is always improving myself."
 url                      : https://amiroudiallo-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/amiroudiallo-dev.github.io"
+repository               : "amiroudiallo-dev/amiroudiallo-dev.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -246,7 +246,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: careers
     values:
       layout: single
       author_profile: true
@@ -264,9 +264,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: contacts
     values:
-      layout: talk
+      layout: contact
       author_profile: true
       share: true
 
