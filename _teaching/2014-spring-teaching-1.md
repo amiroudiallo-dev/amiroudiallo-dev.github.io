@@ -1,20 +1,13 @@
 ---
-title: "University Nazi BONI (ex Polytechnic University of Bobo)"
+title: "Bachelor's degree in Computer Science."
 collection: Career
-type: "Bachelor's degree in computer science"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University Nazi BONI, ESI"
 date: 2018-10-01
 location: "Bobo-dioulasso, Burkina Faso"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Learn aglrothims
+- Mathematics for informatics
+- Programming languages
+- Software architectures
