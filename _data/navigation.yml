@@ -1,12 +1,12 @@
 # main links links
 main:
+  # - title: "Careers"
+  #   url: /careers/
+
+  # - title: "Contacts"
+  #   url: /contacts/    
+
   - title: "Careers"
-    url: /careers/
-
-  - title: "Contacts"
-    url: /contacts/    
-
-  - title: "Teaching"
     url: /teaching/    
     
   # - title: "Portfolio"

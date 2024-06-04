@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "University Nazi BONI (ex Polytechnic University of Bobo)"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor's degree in computer science"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2018-10-01
+location: "Bobo-dioulasso, Burkina Faso"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
