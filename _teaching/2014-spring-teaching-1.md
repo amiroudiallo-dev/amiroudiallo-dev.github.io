@@ -1,6 +1,6 @@
 ---
 title: "University Nazi BONI (ex Polytechnic University of Bobo)"
-collection: teaching
+collection: Career
 type: "Bachelor's degree in computer science"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
